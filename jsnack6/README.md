@@ -9,13 +9,13 @@ dove N è un numero indicato dall'utente.
 
 ### INPUT
 
-- [] Chiedere un numero all'utente
-- [] Creare variabile d'appoggio per i risultati
+- [X] Chiedere un numero all'utente
+- [X] Creare variabile d'appoggio per i risultati
 
 ### ESECUIONE LOGICA
 
-- [] Creare ciclo for per ciclare tutti i numeri richiesti
+- [X] Creare ciclo for per ciclare tutti i numeri richiesti
 
 ### OUTPUT
 
-- [] Stampare ogni numero rischiesto il cubo
+- [X] Stampare ogni numero rischiesto il cubo
