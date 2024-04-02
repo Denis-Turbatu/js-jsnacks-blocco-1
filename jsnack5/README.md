@@ -16,7 +16,7 @@ se è dispari inseriscilo nell'array.
 ### ESECUIONE LOGICA
 
 - [X] Ciclo for per scorrere l'array 
-- [] Mentre scorre l'array, if statement per fare confronto del numero inserito
+- [X] Mentre scorre l'array, if statement per fare confronto del numero inserito
 
 ```
 Se (numUser % 2 !=== 0){
@@ -26,4 +26,4 @@ Se (numUser % 2 !=== 0){
 
 ### OUTPUT
 
-- [] Stampare il risultato della ricerca in un if statement
+- [X] Stampare il risultato della ricerca in un if statement
